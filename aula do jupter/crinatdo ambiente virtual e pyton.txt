@@ -1,0 +1,8 @@
+Crinado ambiente virtual Python
+
+python -m venv (nomre do ambiente)
+
+Ativando e desativando o ambiente virtual no windows
+
+(nome do ambinete)/Scripts/activate.bat
+(nome do ambiente)/Scripts/deactivate.bat

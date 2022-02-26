@@ -1,0 +1,8 @@
+nome = str(input('Digite seu nome: '))
+print('Nome em Maisculo: ', nome.upper())
+print('Nome em minusculo: ', nome.lower())
+print('Tamanho do nome: ', len(nome))
+print('Tamanho do nome sem espaço: ', len(nome.strip()))
+primeironome = nome.split()
+print('Nome dividido: ', primeironome)
+print('Tamanho do primeiro nome: ', len(primeironome[0]))
